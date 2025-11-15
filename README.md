@@ -2,7 +2,6 @@
 
 # 📦 **Redis Docker Container**
 
-![Логотип Markdown](https://www.markdownguide.org/assets/images/markdown-mark-white.svg)
 
 ## 📝 **Описание**
 
